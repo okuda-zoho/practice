@@ -17,5 +17,6 @@ public abstract class TangibleAsset {
 	}
 	public String getColor() {
 		return color;
+
 	}
 }
